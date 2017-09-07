@@ -1,0 +1,930 @@
+[
+  {
+    "sno": "1",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "RAJU SHIL",
+    "code": "AP11818",
+    "contactNumber": "9438377640"
+  },
+  {
+    "sno": "2",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "Mangali Laxmi",
+    "code": "AP11770",
+    "contactNumber": "9550537400"
+  },
+  {
+    "sno": "3",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "Kethavath Santhosh",
+    "code": "AP11771",
+    "contactNumber": "7893495553"
+  },
+  {
+    "sno": "4",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "Mutheragalla Suresh",
+    "code": "AP11774",
+    "contactNumber": "9640934283"
+  },
+  {
+    "sno": "5",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "B PUNNESHWARI",
+    "code": "AP11884",
+    "contactNumber": "7416841424"
+  },
+  {
+    "sno": "6",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "THANDRA JAIPAL",
+    "code": "AP11390",
+    "contactNumber": "7729019156"
+  },
+  {
+    "sno": "7",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "B ALIVELU",
+    "code": "AP11392",
+    "contactNumber": "9493785426"
+  },
+  {
+    "sno": "8",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "MANGALI NAGAMANI",
+    "code": "AP10270",
+    "contactNumber": "9951992643"
+  },
+  {
+    "sno": "9",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "RENUKA BAI",
+    "code": "AP10281",
+    "contactNumber": "9519951652"
+  },
+  {
+    "sno": "10",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "BYATHALA NARASIMULU",
+    "code": "AP10271",
+    "contactNumber": "8790953680"
+  },
+  {
+    "sno": "11",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "THALLA RENUKA",
+    "code": "AP10284",
+    "contactNumber": "9959058790"
+  },
+  {
+    "sno": "12",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "ARUPULA RADHAKRISHNA",
+    "code": "AP10098",
+    "contactNumber": "8978648131"
+  },
+  {
+    "sno": "13",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "RAMAVATH VIJAYA",
+    "code": "AP10107",
+    "contactNumber": "9985529187"
+  },
+  {
+    "sno": "14",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "PILLI LAXMI",
+    "code": "AP10110",
+    "contactNumber": "8790061984"
+  },
+  {
+    "sno": "15",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "DAPPU SRINIVAS",
+    "code": "AP10117",
+    "contactNumber": "9640385565"
+  },
+  {
+    "sno": "16",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "GORU NARAYANA",
+    "code": "AP10118",
+    "contactNumber": "Left"
+  },
+  {
+    "sno": "17",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "CHILAKAPATI DEVAKI",
+    "code": "AP10188",
+    "contactNumber": "9705891552"
+  },
+  {
+    "sno": "18",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "CHAKALI RAMESH",
+    "code": "AP10183",
+    "contactNumber": "9848868747"
+  },
+  {
+    "sno": "19",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "BYNDLA VENKATESH",
+    "code": "AP10180",
+    "contactNumber": "9000631036"
+  },
+  {
+    "sno": "20",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "VADDE RAJASHEKAR",
+    "code": "AP10164",
+    "contactNumber": "9959220736"
+  },
+  {
+    "sno": "21",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "BANGINI VANAJA",
+    "code": "AP10162",
+    "contactNumber": "8464928927"
+  },
+  {
+    "sno": "22",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "BANGINI RAMESH BABU",
+    "code": "AP10161",
+    "contactNumber": "9866715194"
+  },
+  {
+    "sno": "23",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "POTHRAJU SUNEETHA",
+    "code": "AP10157",
+    "contactNumber": "9666327362"
+  },
+  {
+    "sno": "24",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "BAYAGALLA DURGA",
+    "code": "AP10116",
+    "contactNumber": "9989582178"
+  },
+  {
+    "sno": "25",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "HARIJAN MANAIAH",
+    "code": "AP10125",
+    "contactNumber": "9704241949"
+  },
+  {
+    "sno": "26",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "THANDRA VINODA",
+    "code": "AP11291",
+    "contactNumber": "8185819270"
+  },
+  {
+    "sno": "27",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "BAINDLA ANAND KUMAR",
+    "code": "AP11080",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "28",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "Kurati Narendar",
+    "code": "AP11420",
+    "contactNumber": "9951299863"
+  },
+  {
+    "sno": "29",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "ASHAGARI NARSIMULU",
+    "code": "AP11422",
+    "contactNumber": "8790953680"
+  },
+  {
+    "sno": "30",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "SUNNALA SARALA",
+    "code": "AP11351",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "31",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "Ashish Mishra",
+    "code": "AP11620",
+    "contactNumber": "8106989654"
+  },
+  {
+    "sno": "32",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "Garla Sumalatha",
+    "code": "AP11625",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "33",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "Sangari Raju",
+    "code": "AP11626",
+    "contactNumber": "8466807797"
+  },
+  {
+    "sno": "34",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "Baindla Ananthaiah",
+    "code": "AP12022",
+    "contactNumber": "9949195204"
+  },
+  {
+    "sno": "35",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "PRADEEP RAI",
+    "code": "AP11686",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "36",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "TAPASI MAL",
+    "code": "AP11687",
+    "contactNumber": "9885940554"
+  },
+  {
+    "sno": "37",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "SHANKAR TAATI",
+    "code": "AP11688",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "38",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "ANJAN TAATI",
+    "code": "AP11689",
+    "contactNumber": "9885940554"
+  },
+  {
+    "sno": "39",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "BHEEM TANTI",
+    "code": "AP11690",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "40",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "RAMKUMAR GARAREE",
+    "code": "AP11692",
+    "contactNumber": "7799464865"
+  },
+  {
+    "sno": "41",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "LALJI NONIYA",
+    "code": "AP11693",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "42",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "RAHUL KUMAR",
+    "code": "AP11694",
+    "contactNumber": "8730949504"
+  },
+  {
+    "sno": "43",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "GANGA PRASAD RABIDAS",
+    "code": "AP11695",
+    "contactNumber": "9885940554"
+  },
+  {
+    "sno": "44",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "CHANDAN TAATI",
+    "code": "AP11696",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "45",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "SAJAL TAATI",
+    "code": "AP11697",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "46",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "NITAI NAJEK",
+    "code": "AP11698",
+    "contactNumber": "9885940554"
+  },
+  {
+    "sno": "47",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "SANJALA ANITHA",
+    "code": "AP11879",
+    "contactNumber": "9000090703"
+  },
+  {
+    "sno": "48",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "M YADAMMA",
+    "code": "AP11878",
+    "contactNumber": "9966297221"
+  },
+  {
+    "sno": "49",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "SHAHEEN",
+    "code": "AP11885",
+    "contactNumber": "7036985177"
+  },
+  {
+    "sno": "50",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "BAINDLA SUVARNA",
+    "code": "AP10276",
+    "contactNumber": "7032818661"
+  },
+  {
+    "sno": "51",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "THURAKA RATTHAMMA",
+    "code": "AP10130",
+    "contactNumber": "7675023591"
+  },
+  {
+    "sno": "52",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "TALARI JAYAMMA",
+    "code": "AP10260",
+    "contactNumber": "8978293490"
+  },
+  {
+    "sno": "53",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "Borra Venkatesh",
+    "code": "AP11915",
+    "contactNumber": "7286876241"
+  },
+  {
+    "sno": "54",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "Vadla Shoba Rani",
+    "code": "AP12023",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "55",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "MADDALA KALPANA",
+    "code": "AP11073",
+    "contactNumber": "7658953928"
+  },
+  {
+    "sno": "56",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "NILE KAVITHA",
+    "code": "AP10174",
+    "contactNumber": "9704901074"
+  },
+  {
+    "sno": "57",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "GONGLOOR RANAMMA",
+    "code": "AP10113",
+    "contactNumber": "8367371885"
+  },
+  {
+    "sno": "58",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "KOTTALA LAXMI",
+    "code": "AP10106",
+    "contactNumber": "9553452639"
+  },
+  {
+    "sno": "59",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "SANJALA YADAGIRI",
+    "code": "AP11883",
+    "contactNumber": "9000090703"
+  },
+  {
+    "sno": "60",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "PAMPA MISHRA",
+    "code": "AP10286",
+    "contactNumber": "8106989654"
+  },
+  {
+    "sno": "61",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "Perugu Srisailam",
+    "code": "AP11933",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "62",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "MANDULA RENAMMA",
+    "code": "AP10287",
+    "contactNumber": "8374185257"
+  },
+  {
+    "sno": "63",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "NARAMAN CHALAMAIAH",
+    "code": "AP10288",
+    "contactNumber": "9177987992"
+  },
+  {
+    "sno": "64",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "KARIGARI INDHRA",
+    "code": "AP10285",
+    "contactNumber": "9866598862"
+  },
+  {
+    "sno": "65",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "ATHELI ANITHA",
+    "code": "AP10100",
+    "contactNumber": "7993108869"
+  },
+  {
+    "sno": "66",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "GUNDELA SANGEEVA REDDY",
+    "code": "AP10109",
+    "contactNumber": "9701544697"
+  },
+  {
+    "sno": "67",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "PIRANGULA SUKKAMMA",
+    "code": "AP10115",
+    "contactNumber": "7675085173"
+  },
+  {
+    "sno": "68",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "KOPPADA RAMALAKASHMI",
+    "code": "AP10119",
+    "contactNumber": "8106562885"
+  },
+  {
+    "sno": "69",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "NIRUDI SUSHILA",
+    "code": "AP10120",
+    "contactNumber": "9908879456"
+  },
+  {
+    "sno": "70",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "BYAGARI JYOTHI",
+    "code": "AP10122",
+    "contactNumber": "9618750047"
+  },
+  {
+    "sno": "71",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "BODDUGARI PADMA",
+    "code": "AP10127",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "72",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "VELIMELA SHYAM",
+    "code": "AP10178",
+    "contactNumber": "9866058531"
+  },
+  {
+    "sno": "73",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "GUNDALA SHYAMALA",
+    "code": "AP10177",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "74",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "MAILARAM RANI",
+    "code": "AP10140",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "75",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "GOVU AMANI",
+    "code": "AP10176",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "76",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "GADDALA MAISAIAH",
+    "code": "AP10142",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "77",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "CHAKALI MALLESH",
+    "code": "AP10143",
+    "contactNumber": "9705040758"
+  },
+  {
+    "sno": "78",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "NENAVATH SUNITHA",
+    "code": "AP10144",
+    "contactNumber": "7730022747"
+  },
+  {
+    "sno": "79",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "CHANDHAN KUMAR MISHRA",
+    "code": "AP10173",
+    "contactNumber": "9573373726"
+  },
+  {
+    "sno": "80",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "MOHAMMAD SHEHANAZ",
+    "code": "AP10145",
+    "contactNumber": "9652155796"
+  },
+  {
+    "sno": "81",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "CH MASTANAMMA",
+    "code": "AP10172",
+    "contactNumber": "9550638033"
+  },
+  {
+    "sno": "82",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "KARMANOLA SANTHOSH",
+    "code": "AP10146",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "83",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "NAMPALLI RAMESH",
+    "code": "AP10147",
+    "contactNumber": "9000987831"
+  },
+  {
+    "sno": "84",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "CHINTHALA RAMESH",
+    "code": "AP10171",
+    "contactNumber": "9848868747"
+  },
+  {
+    "sno": "85",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "NAMPALLI RAJU",
+    "code": "AP10149",
+    "contactNumber": "9848504729"
+  },
+  {
+    "sno": "86",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "GATTUPALLY THIRUPATHI",
+    "code": "AP10150",
+    "contactNumber": "9866111123"
+  },
+  {
+    "sno": "87",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "SAKINALA LAXMAN",
+    "code": "AP10167",
+    "contactNumber": "8179567800"
+  },
+  {
+    "sno": "88",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "MANDULA ANDALU",
+    "code": "AP10166",
+    "contactNumber": "7661060474"
+  },
+  {
+    "sno": "89",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "BADUGULA INDHIRAMMA",
+    "code": "AP10163",
+    "contactNumber": "7036310825"
+  },
+  {
+    "sno": "90",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "CHILUKA ANITHA",
+    "code": "AP10159",
+    "contactNumber": "7702993356"
+  },
+  {
+    "sno": "91",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "KOPPU NAGARATHNAMMA",
+    "code": "AP10158",
+    "contactNumber": "9100138796"
+  },
+  {
+    "sno": "92",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "K SOWBHAGYA",
+    "code": "AP10156",
+    "contactNumber": "9885122486"
+  },
+  {
+    "sno": "93",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "PEDDAKAPU BAGYAMMA",
+    "code": "AP10151",
+    "contactNumber": "8978117995"
+  },
+  {
+    "sno": "94",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "M ARUNA",
+    "code": "AP10155",
+    "contactNumber": "9700228399"
+  },
+  {
+    "sno": "95",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "NALLOLLA VINAY KUMAR",
+    "code": "AP10152",
+    "contactNumber": "8184923142"
+  },
+  {
+    "sno": "96",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "CHAKALI YADAIAH",
+    "code": "AP10153",
+    "contactNumber": "7286915569"
+  },
+  {
+    "sno": "97",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "GUNDELA LAXMI",
+    "code": "AP10105",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "98",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "SANDUGUDEM SHOBHA",
+    "code": "AP11069",
+    "contactNumber": "7093056583"
+  },
+  {
+    "sno": "99",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "SUNKARI RAMESH",
+    "code": "AP11078",
+    "contactNumber": "LEFT"
+  },
+  {
+    "sno": "100",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "MULAMALLA VENKATESHWAR REDDY",
+    "code": "AP10139",
+    "contactNumber": "9701956544"
+  },
+  {
+    "sno": "101",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "DANDU PRABHAKAR",
+    "code": "AP10097",
+    "contactNumber": "9705539408"
+  },
+  {
+    "sno": "102",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "N.SAI PRASAD",
+    "code": "AP10133",
+    "contactNumber": "9502621636"
+  },
+  {
+    "sno": "103",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "GATTUPALLY AMRESH",
+    "code": "AP10134",
+    "contactNumber": "9603090202"
+  },
+  {
+    "sno": "104",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "KAVALI NARSIMULU",
+    "code": "AP10137",
+    "contactNumber": "9908646761"
+  },
+  {
+    "sno": "105",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "NUTULAPATI SUSEELA RAO",
+    "code": "AP11296",
+    "contactNumber": "8341568920"
+  },
+  {
+    "sno": "106",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "PALTHYA PARUSHURAM",
+    "code": "AP11297",
+    "contactNumber": "9177443925"
+  },
+  {
+    "sno": "107",
+    "website": "CITIZEN ",
+    "designation": "PATIENT CARE",
+    "name": "CH Bethaiah",
+    "code": "AP11666",
+    "contactNumber": "7013630808"
+  },
+  {
+    "sno": "108",
+    "website": "CITIZEN ",
+    "designation": "HOUSE KEEPING",
+    "name": "PIRANGULA RAMCHANDRA",
+    "code": "AP11886",
+    "contactNumber": "7675085173"
+  },
+  {
+    "sno": "109",
+    "website": "CITIZEN ",
+    "designation": "SUPERVISOR",
+    "name": "PRADEEP KUMAR SETHY",
+    "code": "AP11399",
+    "contactNumber": "7093618303"
+  },
+  {
+    "sno": "110",
+    "website": "CITIZEN ",
+    "designation": "SUPERVISOR",
+    "name": "DAPPU NARENDER",
+    "code": "AP11284",
+    "contactNumber": "9676581227"
+  },
+  {
+    "sno": "111",
+    "website": "CITIZEN ",
+    "designation": "SUPERVISOR",
+    "name": "JADA SAIBABU",
+    "code": "AP11283",
+    "contactNumber": "9133657840"
+  },
+  {
+    "sno": "112",
+    "website": "CITIZEN ",
+    "designation": "SUPERVISOR",
+    "name": "CHANDAPURAM SHIVAJI",
+    "code": "AP11285",
+    "contactNumber": "9666559989"
+  },
+  {
+    "sno": "113",
+    "website": "CITIZEN ",
+    "designation": "HELP DESK",
+    "name": "JANGIDI JYOTHI",
+    "code": "AP10295",
+    "contactNumber": "9963412830"
+  },
+  {
+    "sno": "114",
+    "website": "CITIZEN ",
+    "designation": "HELP DESK",
+    "name": "ALAVLA HYMAVATHY",
+    "code": "AP11282",
+    "contactNumber": "9396365505"
+  },
+  {
+    "sno": "115",
+    "website": "CITIZEN ",
+    "designation": "HELP DESK",
+    "name": "N Rajashekar Reddy",
+    "code": "AP11628",
+    "contactNumber": "9618028920"
+  },
+  {
+    "sno": "116",
+    "website": "CITIZEN ",
+    "designation": "HELP DESK",
+    "name": "Balla Uday Kiran",
+    "code": "AP11916",
+    "contactNumber": "9966222393"
+  }
+]
